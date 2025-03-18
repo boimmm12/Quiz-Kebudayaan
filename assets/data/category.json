@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Adat Istiadat",
+    "imagePath": "assets/icons/category/kebudayaan.png"
+  },
+  {
+    "id": 2,
+    "name": "Musik",
+    "imagePath": "assets/icons/category/music.png"
+  },
+  {
+    "id": 3,
+    "name": "Permainan Tradisional",
+    "imagePath": "assets/icons/category/sports.png"
+  },
+  {
+    "id": 4,
+    "name": "Seni",
+    "imagePath": "assets/icons/category/kesenian.png"
+  },
+  {
+    "id": 5,
+    "name": "Kepercayaan",
+    "imagePath": "assets/icons/category/kepercayaan.png"
+  }
+]

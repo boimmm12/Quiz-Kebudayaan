@@ -1,0 +1,1225 @@
+[
+  {
+    "id": 1,
+    "title": "Adat Istiadat 1",
+    "description": "Quiz tentang Adat Istiadat Jawa Barat",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 1,
+    "questions": [
+      {
+        "text": "Yang bukan tradisi adat Jawa Barat adalah?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Nyanggakeun",
+            "isCorrect": false
+          },
+          {
+            "text": "Nyeureuhan",
+            "isCorrect": false
+          },
+          {
+            "text": "Tiwah",
+            "isCorrect": true
+          },
+          {
+            "text": "Siraman Pernikahan",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Berikut ini yang bukan merupakan cara untuk mengenalkan kesenian daerah kepada generasi muda adalah",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Melakukan kunjungan studi banding ke luar negeri",
+            "isCorrect": true
+          },
+          {
+            "text": "Mengadakan pertukaran kesenian antar daerah",
+            "isCorrect": false
+          },
+          {
+            "text": "Mengadakan pentas kesenian daerah",
+            "isCorrect": false
+          },
+          {
+            "text": "Mengajarkan kesenian daerah di pelajaran sekolah",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Suku yang terdapat di Jawa Barat adalah?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Suku Sasak",
+            "isCorrect": false
+          },
+          {
+            "text": "Suku Asmat",
+            "isCorrect": false
+          },
+          {
+            "text": "Suku Bugis",
+            "isCorrect": false
+          },
+          {
+            "text": "Suku Sunda",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "Masyarakat Jawa Barat kerap meminum Jamu, apa tujuan meminum Jamu?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "menambah rezeki",
+            "isCorrect": false
+          },
+          {
+            "text": "agar tubuh sehat",
+            "isCorrect": true
+          },
+          {
+            "text": "dihindarkan dari bahaya",
+            "isCorrect": false
+          },
+          {
+            "text": "mengikuti trend",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Adat Nadran berasal dari daerah?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Cirebon",
+            "isCorrect": true
+          },
+          {
+            "text": "Bekasi",
+            "isCorrect": false
+          },
+          {
+            "text": "Bandung",
+            "isCorrect": false
+          },
+          {
+            "text": "Depok",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Upacara adat Jawa Barat yang dilakukan sebelum menikah dengan menyerahkan berbagai seserahan disebut?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Seren Taun",
+            "isCorrect": true
+          },
+          {
+            "text": "Mapag Sri",
+            "isCorrect": false
+          },
+          {
+            "text": "Tiwah",
+            "isCorrect": false
+          },
+          {
+            "text": "Ngaben",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Tradisi untuk memohon keselamatan ketika seseorang akan menikah di Jawa Barat disebut?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Sawer Pengantin",
+            "isCorrect": true
+          },
+          {
+            "text": "Tumpengan",
+            "isCorrect": false
+          },
+          {
+            "text": "Mappacci",
+            "isCorrect": false
+          },
+          {
+            "text": "Tedak Siten",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Tradisi untuk memohon keselamatan ketika seseorang akan menikah di Jawa Barat disebut?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Sawer Pengantin",
+            "isCorrect": true
+          },
+          {
+            "text": "Tumpengan",
+            "isCorrect": false
+          },
+          {
+            "text": "Mappacci",
+            "isCorrect": false
+          },
+          {
+            "text": "Tedak Siten",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Upacara adat Jawa Barat untuk menyambut kelahiran bayi disebut?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Nenjrag Bumi",
+            "isCorrect": true
+          },
+          {
+            "text": "Tingkeban",
+            "isCorrect": false
+          },
+          {
+            "text": "Ngaseuk Pare",
+            "isCorrect": false
+          },
+          {
+            "text": "Nujuh Bulanan",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Tradisi Jawa Barat yang dilakukan sebelum panen padi adalah?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Mapag Sri",
+            "isCorrect": true
+          },
+          {
+            "text": "Ngaben",
+            "isCorrect": false
+          },
+          {
+            "text": "Seren Taun",
+            "isCorrect": false
+          },
+          {
+            "text": "Rambu Solo",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Pesta rakyat setelah panen sebagai wujud rasa syukur disebut?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Seren Taun",
+            "isCorrect": true
+          },
+          {
+            "text": "Sekaten",
+            "isCorrect": false
+          },
+          {
+            "text": "Gawai Dayak",
+            "isCorrect": false
+          },
+          {
+            "text": "Ngaben",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Musik 1",
+    "description": "Quiz tentang musik tradisional Jawa Barat",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 2,
+    "questions": [
+      {
+        "text": "Alat musik yang terbuat dari tabung bambu dan dimainkan dengan digoyang ke kanan dan kiri adalah?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Kecapi",
+            "isCorrect": false
+          },
+          {
+            "text": "Suling",
+            "isCorrect": false
+          },
+          {
+            "text": "Angklung",
+            "isCorrect": true
+          },
+          {
+            "text": "Tifa",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Lagu 'Manuk Dadali' merupakan lagu berbahasa Sunda yang diciptakan oleh",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Ismail Marzuki",
+            "isCorrect": false
+          },
+          {
+            "text": "Sambas Mangundikarta",
+            "isCorrect": true
+          },
+          {
+            "text": "Angelo Jules Andres Espinoza",
+            "isCorrect": false
+          },
+          {
+            "text": "Dedy Cahyadi Sunjoyo",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Yang merupakan lagu tradisional Jawa Barat adalah?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Halo halo Bandung",
+            "isCorrect": true
+          },
+          {
+            "text": "Apuse",
+            "isCorrect": false
+          },
+          {
+            "text": "Bungong Jempa",
+            "isCorrect": false
+          },
+          {
+            "text": "Ayam Den Lepeh",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Alat musik yang ditiup dan umumnya dibuat dari bambu adalah",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Suling",
+            "isCorrect": true
+          },
+          {
+            "text": "Jengglong",
+            "isCorrect": false
+          },
+          {
+            "text": "Celempung",
+            "isCorrect": false
+          },
+          {
+            "text": "Tarawangsa",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Singkatan dari lagu 'Tokecang' adalah",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Tokoh Kearifan Cantur",
+            "isCorrect": false
+          },
+          {
+            "text": "Tondakan Keceriaan Canggih",
+            "isCorrect": false
+          },
+          {
+            "text": "Tokek Makan Kacang",
+            "isCorrect": true
+          },
+          {
+            "text": "Tongton Keresahan Cangcurig",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Alat musik khas Jawa Barat yang dimainkan dengan cara dipetik adalah?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Angklung",
+            "isCorrect": false
+          },
+          {
+            "text": "Suling",
+            "isCorrect": false
+          },
+          {
+            "text": "Kecapi",
+            "isCorrect": true
+          },
+          {
+            "text": "Gamelan",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Alat musik tradisional Jawa Barat yang berbentuk seperti seruling dan terbuat dari bambu disebut?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Rebab",
+            "isCorrect": false
+          },
+          {
+            "text": "Angklung",
+            "isCorrect": false
+          },
+          {
+            "text": "Suling",
+            "isCorrect": true
+          },
+          {
+            "text": "Karinding",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Alat musik tradisional Jawa Barat yang dimainkan dengan cara digoyang hingga menghasilkan bunyi adalah?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Gamelan",
+            "isCorrect": false
+          },
+          {
+            "text": "Kendang",
+            "isCorrect": false
+          },
+          {
+            "text": "Angklung",
+            "isCorrect": true
+          },
+          {
+            "text": "Rebab",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Alat musik perkusi khas Jawa Barat yang sering dimainkan dalam gamelan degung adalah?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Bonang",
+            "isCorrect": false
+          },
+          {
+            "text": "Angklung",
+            "isCorrect": false
+          },
+          {
+            "text": "Kendang",
+            "isCorrect": true
+          },
+          {
+            "text": "Kecapi",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Jenis musik tradisional Jawa Barat yang memadukan alat musik suling dan kecapi disebut?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Karawitan",
+            "isCorrect": false
+          },
+          {
+            "text": "Degung",
+            "isCorrect": false
+          },
+          {
+            "text": "Tembang Sunda",
+            "isCorrect": true
+          },
+          {
+            "text": "Jaipongan",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Olahraga Tradisional 1",
+    "description": "Quiz tentang olahraga tradisional Jawa Barat",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 3,
+    "questions": [
+      {
+        "text": "Permainan yang menggunakan pelepah daun pisang dan dibentuk menyerupai senapan disebut",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Perepet Jengkol",
+            "isCorrect": false
+          },
+          {
+            "text": "Gempungan Carita Karuhun",
+            "isCorrect": false
+          },
+          {
+            "text": "Bedil Serodok",
+            "isCorrect": true
+          },
+          {
+            "text": "Gatrik",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Oray - orayan merupakan permainan tradisional yang lebih dikenal dengan nama",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Seuneu Bebas",
+            "isCorrect": false
+          },
+          {
+            "text": "Ular Naga Panjang",
+            "isCorrect": true
+          },
+          {
+            "text": "Petak Umpet",
+            "isCorrect": false
+          },
+          {
+            "text": "Sepak Bola ",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Jajangkungan adalah?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Permainan keseimbangan dengan bambu yang panjang",
+            "isCorrect": true
+          },
+          {
+            "text": "Permainan bersembunyi dengan satu orang yang mencari",
+            "isCorrect": false
+          },
+          {
+            "text": "Permainan kejar - kejaran dengan satu orang menangkap yang lain",
+            "isCorrect": false
+          },
+          {
+            "text": "Permainan menggunakan bambu lalu memukulnya hingga tinggi",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Permainan yang tidak membutuhkan alat apapun",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Cing ciripit",
+            "isCorrect": true
+          },
+          {
+            "text": "Jajangkungan",
+            "isCorrect": false
+          },
+          {
+            "text": "Bedil Sorolok",
+            "isCorrect": false
+          },
+          {
+            "text": "Gatrik",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Manakah permainan tradisional Jawa Barat",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Lompat Batu",
+            "isCorrect": false
+          },
+          {
+            "text": "Pacu Jalur",
+            "isCorrect": false
+          },
+          {
+            "text": "Sorodot gaplok",
+            "isCorrect": true
+          },
+          {
+            "text": "Jemparingan",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Permainan tradisional Jawa Barat yang menggunakan tongkat dan batangan kecil disebut?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Perepet Jengkol",
+            "isCorrect": false
+          },
+          {
+            "text": "Bedil Serodok",
+            "isCorrect": false
+          },
+          {
+            "text": "Gatrik",
+            "isCorrect": true
+          },
+          {
+            "text": "Egrang",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Permainan tradisional yang dimainkan dengan menggunakan bambu sebagai alat untuk berjalan disebut?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Sondah",
+            "isCorrect": false
+          },
+          {
+            "text": "Gatrik",
+            "isCorrect": false
+          },
+          {
+            "text": "Egrang",
+            "isCorrect": true
+          },
+          {
+            "text": "Oray-Orayan",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Permainan tradisional Jawa Barat yang melibatkan saling berpegangan dan melingkar disebut?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Oray-Orayan",
+            "isCorrect": false
+          },
+          {
+            "text": "Gatrik",
+            "isCorrect": false
+          },
+          {
+            "text": "Perepet Jengkol",
+            "isCorrect": true
+          },
+          {
+            "text": "Galah Asin",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Permainan yang menggunakan batu kecil atau kelereng untuk dilemparkan ke dalam kotak-kotak disebut?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Gatrik",
+            "isCorrect": false
+          },
+          {
+            "text": "Egrang",
+            "isCorrect": false
+          },
+          {
+            "text": "Sondah",
+            "isCorrect": true
+          },
+          {
+            "text": "Boy-boyan",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Permainan tradisional Jawa Barat yang menggunakan pecahan genting sebagai sasaran disebut?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Gatrik",
+            "isCorrect": false
+          },
+          {
+            "text": "Egrang",
+            "isCorrect": false
+          },
+          {
+            "text": "Boy-boyan",
+            "isCorrect": true
+          },
+          {
+            "text": "Boy-boyan",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Seni Tradisional 1",
+    "description": "Quiz tentang kesenian tradisional Jawa Barat",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 4,
+    "questions": [
+      {
+        "text": "Wayang manakah yang berasal dari Jawa Barat",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Wayang Klithik",
+            "isCorrect": false
+          },
+          {
+            "text": "Wayang Potehi",
+            "isCorrect": false
+          },
+          {
+            "text": "Wayang Golek",
+            "isCorrect": true
+          },
+          {
+            "text": "Wayang Kulit",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Tari yang menggambarkan kehidupan burung merak dengan gerakan lenggak lenggok yang indah adalah",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Tari Baboko Mangkup",
+            "isCorrect": false
+          },
+          {
+            "text": "Tari Merak",
+            "isCorrect": true
+          },
+          {
+            "text": "Tari Ketuk Tilu",
+            "isCorrect": false
+          },
+          {
+            "text": "Tari Jaipong",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Apa yang menjadi ciri khas Wayang Golek?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Terbuat dari kayu",
+            "isCorrect": true
+          },
+          {
+            "text": "Terbuat dari kulit",
+            "isCorrect": false
+          },
+          {
+            "text": "Menggunakan boneka tangan",
+            "isCorrect": false
+          },
+          {
+            "text": "Menggunakan bayangan",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Permainan yang tidak membutuhkan alat apapun",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Cing ciripit",
+            "isCorrect": true
+          },
+          {
+            "text": "Jajangkungan",
+            "isCorrect": false
+          },
+          {
+            "text": "Bedil Sorolok",
+            "isCorrect": false
+          },
+          {
+            "text": "Gatrik",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Manakah permainan tradisional Jawa Barat",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Lompat Batu",
+            "isCorrect": false
+          },
+          {
+            "text": "Pacu Jalur",
+            "isCorrect": false
+          },
+          {
+            "text": "Sorodot gaplok",
+            "isCorrect": true
+          },
+          {
+            "text": "Jemparingan",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Tarian tradisional Jawa Barat yang terkenal dengan gerakan dinamis dan ceria adalah?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Tari Saman",
+            "isCorrect": false
+          },
+          {
+            "text": "Tari Topeng Cirebon",
+            "isCorrect": false
+          },
+          {
+            "text": "Tari Jaipong",
+            "isCorrect": true
+          },
+          {
+            "text": "Tari Piring",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Wayang khas Jawa Barat yang terbuat dari kayu dan berbentuk tiga dimensi disebut?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Wayang Kulit",
+            "isCorrect": false
+          },
+          {
+            "text": "Wayang Golek",
+            "isCorrect": false
+          },
+          {
+            "text": "Wayang Wong",
+            "isCorrect": true
+          },
+          {
+            "text": "Wayang Klithik",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Seni musik tradisional Jawa Barat yang menggunakan alat musik Angklung disebut?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Gamelan",
+            "isCorrect": false
+          },
+          {
+            "text": "Karawitan",
+            "isCorrect": false
+          },
+          {
+            "text": "Degung",
+            "isCorrect": true
+          },
+          {
+            "text": "Angklung Interaktif",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Seni rupa khas Jawa Barat yang sering digunakan untuk menghias kain tradisional disebut?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Songket",
+            "isCorrect": false
+          },
+          {
+            "text": "Tenun Ikat",
+            "isCorrect": false
+          },
+          {
+            "text": "Batik Mega Mendung",
+            "isCorrect": true
+          },
+          {
+            "text": "Kain Tapis",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Seni pertunjukan tradisional Jawa Barat yang memadukan seni tari, musik, dan pantun adalah?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Ketoprak",
+            "isCorrect": false
+          },
+          {
+            "text": "Lenong",
+            "isCorrect": false
+          },
+          {
+            "text": "Longser",
+            "isCorrect": true
+          },
+          {
+            "text": "Ludruk",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Kepercayaan Tradisional 1",
+    "description": "Quiz tentang kepercayaan tradisional Jawa Barat",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 5,
+    "questions": [
+      {
+        "text": "Manakah kepercayaan tradisional Jawa Barat sebelum adanya ajaran Hindu, Buddha, serta Islam?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Malim",
+            "isCorrect": false
+          },
+          {
+            "text": "Kaharigan",
+            "isCorrect": false
+          },
+          {
+            "text": "Sunda Wiwitan",
+            "isCorrect": true
+          },
+          {
+            "text": "Marapu",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Salah satu konsep kepercayaan sunda wiwitan adalah?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Puasa ritual agama",
+            "isCorrect": false
+          },
+          {
+            "text": "Menghargai Alam",
+            "isCorrect": true
+          },
+          {
+            "text": "Monoteisme Absolut",
+            "isCorrect": false
+          },
+          {
+            "text": "Perusakan hutan dan lingkungan",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Sang Hyang Kersa adalah?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Yang Maha Kuasa",
+            "isCorrect": true
+          },
+          {
+            "text": "Yang Menghendaki",
+            "isCorrect": false
+          },
+          {
+            "text": "Penguasa Alam",
+            "isCorrect": false
+          },
+          {
+            "text": "Yang Gaib",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Tempat keramat dalam Sunda Wiwitan yang biasanya digunakan untuk upacara disebut",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Punden",
+            "isCorrect": true
+          },
+          {
+            "text": "Masjid",
+            "isCorrect": false
+          },
+          {
+            "text": "Gereja",
+            "isCorrect": false
+          },
+          {
+            "text": "Pura",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Sunda Wiwitan tidak memiliki konsep yang jelas mengenai",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Leluhur",
+            "isCorrect": false
+          },
+          {
+            "text": "Dewata",
+            "isCorrect": false
+          },
+          {
+            "text": "Surga dan neraka",
+            "isCorrect": true
+          },
+          {
+            "text": "Upacara adat",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Kepercayaan tradisional masyarakat Jawa Barat yang masih dianut oleh sebagian masyarakat Kanekes adalah?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Malim",
+            "isCorrect": false
+          },
+          {
+            "text": "Kaharigan",
+            "isCorrect": false
+          },
+          {
+            "text": "Sunda Wiwitan",
+            "isCorrect": true
+          },
+          {
+            "text": "Marapu",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Dalam kepercayaan Sunda Wiwitan, tempat yang dianggap suci dan digunakan untuk berdoa adalah?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Pura",
+            "isCorrect": false
+          },
+          {
+            "text": "Bale Gede",
+            "isCorrect": false
+          },
+          {
+            "text": "Pamujan",
+            "isCorrect": true
+          },
+          {
+            "text": "Sanggar Agung",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Kepercayaan Sunda Wiwitan sangat menghormati alam. Prinsip ini disebut?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Mandala",
+            "isCorrect": false
+          },
+          {
+            "text": "Tri Hita Karana",
+            "isCorrect": false
+          },
+          {
+            "text": "Pikukuh Karuhun",
+            "isCorrect": true
+          },
+          {
+            "text": " Tat Twam Asi",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Pemimpin spiritual dalam kepercayaan Sunda Wiwitan yang memimpin upacara adat disebut?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Dalang",
+            "isCorrect": false
+          },
+          {
+            "text": "Tetua Adat",
+            "isCorrect": false
+          },
+          {
+            "text": "Puun",
+            "isCorrect": true
+          },
+          {
+            "text": "Pandita",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Dalam tradisi Sunda Wiwitan, nama lain untuk sesembahan atau Tuhan Yang Maha Esa adalah?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Hyang Widhi",
+            "isCorrect": false
+          },
+          {
+            "text": "Dewata Mulia Raya",
+            "isCorrect": false
+          },
+          {
+            "text": "Sang Hyang Kersa",
+            "isCorrect": true
+          },
+          {
+            "text": "Dewata Mulia Raya",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  }
+]

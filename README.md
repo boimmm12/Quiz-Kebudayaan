@@ -1,6 +1,6 @@
-# flutter_quiz_app
+# Quiz Kebudayaan Jawa Barat Flutter
 
-Flutter Quiz App
+Quiz Kebudayaan
 
 ## Getting Started
 
